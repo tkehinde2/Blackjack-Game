@@ -1,0 +1,16 @@
+body {
+  background-color: lightgreen;
+}
+
+button {
+  size: 150px;
+  position: absolute;
+  left: 48%;
+}
+
+p {
+  font-size: 40px;
+  font-family: cursive;
+  text-align: center;
+}
+
